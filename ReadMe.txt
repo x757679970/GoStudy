@@ -11,11 +11,11 @@ Lession10:文件夾遍歷
 Lession11:struct
 Lession12:控制台參數(暫時跳過)
 Lession13:時間與格式
-Lession14:
-Lession15:
-Lession16:
-Lession17:
-Lession18:
+Lession14:排序
+Lession15:Json
+Lession16:切片slice
+Lession17:webhtml
+Lession18:隨機亂數
 Lession19:
 Lession20:
 Lession21:
